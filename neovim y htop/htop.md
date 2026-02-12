@@ -1,14 +1,15 @@
 # HTOP
 
-![VIM logo ](https://blog.trifork.com/wp-content/uploads/2014/08/htop-logo.png)
+
+
 
 ## ¿QUE ES Y PARA QUE SIRVE?
-htop es un sistema de monitorizacion admisnistracion y visualizacion de procesos
+htop es un sistema de monitorizacion administracion y visualizacion de procesos
 ## Instalacion
 Podemos instalarlo con el siguiente comando 
 
 ```
-sudo apt-get install htop
+sudo apt install htop
 ```
 
 ## Como usar HTOP
@@ -19,7 +20,7 @@ htop
 ```
 Y nos mostrara la interfaz de htop de la siguiente forma 
 
-![VIM logo ](https://blog.inovanex.com/wp-content/uploads/2017/12/htop1.jpg)
+![htop](../images/htop.png)
 
 Donde podemos visualizar 3 areas:
 
